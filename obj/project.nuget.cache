@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "osAbdQPHmkSYJAHW0uVrYn6ZgspmsiVaPaSnj3oy8mki9EJIj0bGqkDByLYBCWyIcEykQCqYQUV+vFkjRtIg7w==",
+  "success": true,
+  "projectFilePath": "/Users/kanitsharma/Work/kimera/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/kanitsharma/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.0-preview.4.23259.5/microsoft.dotnet.ilcompiler.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/kanitsharma/.nuget/packages/microsoft.net.illink.tasks/8.0.0-preview.4.23259.5/microsoft.net.illink.tasks.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/kanitsharma/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.0-preview.4.23259.5/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/kanitsharma/.nuget/packages/microsoft.netcore.app.runtime.osx-arm64/8.0.0-preview.4.23259.5/microsoft.netcore.app.runtime.osx-arm64.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/kanitsharma/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.0-preview.4.23259.5/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/kanitsharma/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-arm64/8.0.0-preview.4.23260.4/microsoft.aspnetcore.app.runtime.osx-arm64.8.0.0-preview.4.23260.4.nupkg.sha512"
+  ],
+  "logs": []
+}

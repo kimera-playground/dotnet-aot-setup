@@ -1,0 +1,2 @@
+/Users/kanitsharma/Work/kimera/HelloWorld/bin/Release/net8.0/osx-arm64/publish/HelloWorld
+/Users/kanitsharma/Work/kimera/HelloWorld/bin/Release/net8.0/osx-arm64/publish/HelloWorld.pdb
